@@ -5,6 +5,8 @@ a fully operational Contacts crud.
 
 Features
 * Spring Security (Authentication and Role based authorization for different views)
+    * Keycloak for production
+    * In memory authentication for Dev mode
 * i18n
 * Different profiles for Dev & Production
 * Usage of open source chart (ApexCharts.js) instead of Vaadin Pro Charts
